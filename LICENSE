@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Scope: This license covers the original code, skill instructions, analysis,
-and original examples authored for this project. It does not cover the
-third-party corpus in data/ or third-party excerpts quoted for analysis.
-Those materials remain subject to their respective rights. See README.md.
